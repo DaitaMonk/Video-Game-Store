@@ -8,7 +8,7 @@ Check out the live version of the website here: [**Game Store Website Live Demo*
 
 ## 📸 Website Preview
 
-![Game Sales Website Preview](https://yourimageurl.com)
+![Screenshot 2024-09-27 120316](https://github.com/user-attachments/assets/70e02804-7ded-4b3a-a6cc-bde3117fef4c)
 
 ## 🛠️ Built With
 
