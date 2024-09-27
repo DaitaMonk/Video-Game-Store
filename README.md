@@ -47,7 +47,7 @@ To run the project locally, follow these steps:
 |-- index.html
 |-- css/
     |-- style.css
-|-- script.js
+|-- main.js
 |-- images/
     |-- (all game-related image assets)
 ```
