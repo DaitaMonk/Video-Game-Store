@@ -4,7 +4,7 @@ This project is designed to showcase an online storefront for video games. It is
 
 ## 🌐 Live Demo
 
-Check out the live version of the website here: [**Game Store Website Live Demo**](https://yourwebsite.com)
+Check out the live version of the website here: [**Game Store Website Live Demo**](https://daitamonk.github.io/Video-Game-Store/#customers)
 
 ## 📸 Website Preview
 
